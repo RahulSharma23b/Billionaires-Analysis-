@@ -15,4 +15,4 @@ Now let’s have a look at the top 5 countries with the most number of billionai
 The visualization above shows that the United States and China are the countries from which most people become billionaires. So that means the business environment and the startup success rate is really good in the US and China compared to the rest of the world.
 
 # Summary
- At the end of the analysis of global billionaires, I found that China and the United States are the countries with the most billionaires which concludes that the business environment and the success rate of a startup is much better in the US and China than in the rest of the world. Hope you liked this article on Billionaires Analysis with Python.
+ At the end of the analysis of global billionaires, I found that China and the United States are the countries with the most billionaires which concludes that the business environment and the success rate of a startup is much better in the US and China than in the rest of the world. 
